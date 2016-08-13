@@ -1,9 +1,0 @@
-<?php
-session_start();
-?>
-<?php
-session_destroy();
-?>
-<script>
-location.href='login.php';
-</script>
